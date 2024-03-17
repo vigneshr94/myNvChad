@@ -13,3 +13,7 @@ o.softtabstop = 4
 opt.foldmethod="expr"
 opt.foldexpr="nvim_treesitter#foldexpr()"
 opt.foldlevel=99
+
+-- set line number
+opt.number=true
+opt.relativenumber=false
