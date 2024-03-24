@@ -16,4 +16,4 @@ opt.foldlevel=99
 
 -- set line number
 opt.number=true
-opt.relativenumber=false
+opt.relativenumber=true
