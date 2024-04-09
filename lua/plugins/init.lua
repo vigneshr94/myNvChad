@@ -38,6 +38,8 @@ return {
 				"snyk",
 				"pylint",
 				"html-lsp",
+                "cssmodules-language-server",
+	            "clangd",
 			},
 		},
 	},
