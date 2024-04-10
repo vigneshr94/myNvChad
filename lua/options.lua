@@ -2,6 +2,7 @@ require "nvchad.options"
 local o = vim.o
 local opt = vim.opt
 -- add yours here!
+vim.diagnostic.disable()
 -- Indenting
 o.expandtab = true
 o.shiftwidth = 4
