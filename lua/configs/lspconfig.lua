@@ -17,6 +17,7 @@ local servers = {
 	"pylsp",
 	"pyright",
 	"rust_analyzer",
+	"yamlls",
 	"tsserver",
 }
 
