@@ -1,7 +1,7 @@
 local M = {}
 
 M.ui = {
-  theme = "chadracula",
+  theme = "chadracula-evondev",
   nvdash = {
     load_on_startup = true,
     header = {
