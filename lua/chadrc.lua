@@ -1,7 +1,7 @@
 local M = {}
 
 M.ui = {
-  theme = "gruvchad",
+  theme = "chadracula",
   nvdash = {
     load_on_startup = true,
     header = {
