@@ -26,6 +26,7 @@ return {
 				"lua-language-server",
 				"prettier",
 				"stylua",
+                "flake8",
 				"black",
 				"isort",
 				"bash-language-server",

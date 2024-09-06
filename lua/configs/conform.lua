@@ -1,9 +1,9 @@
 local options = {
 	lsp_fallback = true,
-
+    format_on_save = true,
 	formatters_by_ft = {
 		lua = { "stylua" },
-		python = { "black", "isort" },
+		python = { "flake8", "black", "isort" },
 		javascript = { "prettier" },
 		yaml = { "prettier" },
 		typescript = { "prettier" },
